@@ -1,0 +1,258 @@
+-,homogeneos,Capa vacia,0,Elegir material,0,0,0,0,0,0,0,0,0,0
+0,homogeneos,Cerámicos,1,Ladrillo común (1.600Kg/m3),1600,0.8,1000,0,0,0,0,0.08,3,0.23
+1,homogeneos,Cerámicos,1,Ladrillo común (1.800Kg/m3),1800,0.91,1000,0,0,0,0,0.08,3,0.23
+2,homogeneos,Cerámicos,1,Ladrillo común (2.000Kg/m3),2000,1.1,1000,0,0,0,0,0.08,3,0.23
+3,homogeneos,Cerámicos,1,Bloques de suelo cemento macizos (1.500Kg/m3),1500,0.32,1000,0,0,0,0,0.1,3,0.23
+4,heterogeneos,Cerámicos,1,Ladrillo cerámico 2x3 huecos - Espesor: 8cm,860,0,1000,80,0.21,0.21,0,0.1,3,0.23
+5,heterogeneos,Cerámicos,1,Ladrillo cerámico 3x2 huecos - Espesor: 18cm,930,0,1000,180,0.23,0.23,0,0.1,3,0.23
+6,heterogeneos,Cerámicos,1,Ladrillo cerámico 3x2 huecos - Espesor: 20cm,710,0,1000,200,0.33,0.33,0,0.1,3,0.23
+7,heterogeneos,Cerámicos,1,Ladrillo cerámico 3x3 huecos - Espesor: 18cm,690,0,1000,180,0.41,0.41,0,0.1,3,0.23
+8,heterogeneos,Cerámicos,1,Ladrillo cerámico 4x2 huecos - Espesor: 18cm,695,0,1000,180,0.34,0.34,0,0.1,3,0.23
+9,heterogeneos,Cerámicos,1,Ladrillo cerámico 4x2 huecos - Espesor: 20cm,720,0,1000,20,0.5,0.5,0,0.1,3,0.23
+10,heterogeneos,Cerámicos,1,Ladrillo cerámico 4x4 huecos - Espesor: 18cm,755,0,1000,180,0.47,0.47,0,0.1,3,0.23
+11,heterogeneos,Cerámicos,1,Bloque cerámico - Espesor: 12cm,870,0,1000,120,0.43,0.43,0,0.1,3,0.23
+12,heterogeneos,Cerámicos,1,Bloque cerámico - Espesor: 18cm (810Kg/m3),810,0,1000,180,0.54,0.54,0,0.1,3,0.23
+13,heterogeneos,Cerámicos,1,Bloque cerámico - Espesor: 18cm (710Kg/m3),710,0,1000,180,0.43,0.43,0,0.1,3,0.23
+14,heterogeneos,Cerámicos,1,Bloque cerámico - Espesor: 18cm (750Kg/m3),750,0,1000,180,0.55,0.55,0,0.1,3,0.23
+15,heterogeneos,Cerámicos,1,Bloque cerámico 3 cámaras trabado - Espesor: 12cm,670,0,1000,120,0.39,0.39,0,0.1,3,0.23
+16,heterogeneos,Cerámicos,1,Bloque cerámico 3 cámaras trabado - Espesor: 18cm,680,0,1000,180,0.5,0.5,0,0.1,3,0.23
+17,heterogeneos,Cerámicos,1,Bloque cerámico 5 cámaras trabado - Espesor: 20cm,600,0,1000,200,0.6,0.6,0,0.1,3,0.23
+18,heterogeneos,Cerámicos,1,Bloque cerámico 5 cámaras trabado - Espesor: 18cm,690,0,1000,180,0.61,0.61,0,0.1,3,0.23
+19,homogeneos,Metales,2,Acero de construccion,7800,58,512,0,0,0,0,0.0000001,20.1,1.37
+20,homogeneos,Metales,2,Hierro fundido,7200,50,1000,0,0,0,0,0.0000001,25,1.91
+21,homogeneos,Metales,2,Aluminio,2700,204,896,0,0,0,0,0.0000001,115,8.24
+22,homogeneos,Metales,2,Cobre,8900,384,385,0,0,0,0,0.0000001,42,2.6
+23,homogeneos,Metales,2,Laton,8600,110,1000,0,0,0,0,0.0000001,42,2.6
+24,homogeneos,Metales,2,Bronce,8800,42,1000,0,0,0,0,0.0000001,69,3.73
+25,homogeneos,Metales,2,Acero inoxidable d=8100,8100,14.5,512,0,0,0,0,0.0000001,56.7,6.15
+26,homogeneos,Metales,2,Acero inoxidable d=8450,8450,17.5,512,0,0,0,0,0.0000001,56.7,6.15
+27,homogeneos,Metales,2,Acero inoxidable d=900,900,20.9,512,0,0,0,0,0.0000001,56.7,6.15
+28,homogeneos,Maderas,3,Madera d=740,740,0.3,1000,0,0,0,0,0.03,10,0
+29,homogeneos,Maderas,3,Madera d=740,740,0.17,1000,0,0,0,0,0.03,10,0
+30,homogeneos,Maderas,3,Madera,800,0.36,1000,0,0,0,0,0.03,10,0
+31,homogeneos,Maderas,3,Madera,800,0.24,1000,0,0,0,0,0.03,10,0
+32,homogeneos,Maderas,3,Madera,680,0.13,1000,0,0,0,0,0.03,10,0
+33,homogeneos,Maderas,3,Madera,600,0.14,1000,0,0,0,0,0.03,10,0
+34,homogeneos,Maderas,3,Madera balsa perpend a fibras,150,0.056,1000,0,0,0,0,0.03,10,0.3
+35,homogeneos,Maderas,3,Madera balsa,250,0.095,1000,0,0,0,0,0.03,0,10
+36,homogeneos,Maderas,3,Madera,700,0.31,1000,0,0,0,0,0.03,0,10
+37,homogeneos,Maderas,3,Madera caoba,700,0.15,1000,0,0,0,0,0.03,0,10
+38,homogeneos,Maderas,3,Madera arce,700,0.42,1000,0,0,0,0,0.03,0,10
+39,homogeneos,Maderas,3,Madera arce,700,0.16,1000,0,0,0,0,0.03,0,10
+40,homogeneos,Maderas,3,Madera roble,650,0.24,1000,0,0,0,0,0.03,0,10
+41,homogeneos,Maderas,3,Pino spruce abeto,500,0.28,2512,0,0,0,0,0.03,0,10
+42,homogeneos,Maderas,3,Pino spruce abeto,500,0.16,2512,0,0,0,0,0.03,0,10
+43,homogeneos,Maderas,3,Madera nogal paralela a fibras,700,0.27,1000,0,0,0,0,0.03,10,0.3
+44,homogeneos,Maderas,3,Madera dura,1300,0.34,1000,0,0,0,0,0.007,10,0.3
+45,homogeneos,Maderas,3,Madera terciada,600,0.11,1000,0,0,0,0,0.0015,10,0.3
+46,homogeneos,Maderas,3,Madera enchapada,600,0.15,1000,0,0,0,0,0.01,9.5,0.31
+47,homogeneos,Tableros,4,Tableros de partic aglomer d=200,200,0.06,1000,0,0,0,0,0.33,11,0.37
+48,homogeneos,Tableros,4,Tableros de partic aglomer d=300,300,0.069,1000,0,0,0,0,0.33,11,0.37
+49,homogeneos,Tableros,4,Tableros de partic aglomer d=400,400,0.078,1000,0,0,0,0,0.33,11,0.37
+50,homogeneos,Tableros,4,Tableros de partic aglomer d=500,500,0.087,1000,0,0,0,0,0.33,11,0.37
+51,homogeneos,Tableros,4,Tableros de partic aglomer d=600,600,0.09,1000,0,0,0,0,0.43,11,0.37
+52,homogeneos,Tableros,4,Tableros de partic aglomer d=700,700,0.11,1000,0,0,0,0,0.32,11,0.37
+53,homogeneos,Tableros,4,Tableros de partic aglomer d=800,800,0.13,1000,0,0,0,0,0.16,11,0.37
+54,homogeneos,Tableros,4,Tableros de partic aglomer d=900,900,0.15,1000,0,0,0,0,0.12,11,0.37
+55,homogeneos,Tableros,4,Tableros de partic aglomer d=1000,1000,0.17,1000,0,0,0,0,0.09,11,0.37
+56,homogeneos,Tableros,4,Tablero partic aglomer de lino d=300,300,0.073,1000,0,0,0,0,0.33,11,0.37
+57,homogeneos,Tableros,4,Tablero partic aglomer de lino d=400,400,0.081,1000,0,0,0,0,0.33,11,0.37
+58,homogeneos,Tableros,4,Tablero partic aglomer de lino d=500,500,0.11,1000,0,0,0,0,0.33,11,0.37
+59,homogeneos,Tableros,4,Tablero partic aglomer de lino d=600,600,0.012,1000,0,0,0,0,0.43,11,0.37
+60,homogeneos,Tableros,4,Tablero partic aglomer de lino d=700,700,0.15,1000,0,0,0,0,0.32,11,0.37
+61,homogeneos,Tableros,4,Tablero fibras madera aglom d=200,200,0.047,1000,0,0,0,0,0.33,11,0.37
+62,homogeneos,Tableros,4,Tablero fibras madera aglom d=300,300,0.054,1000,0,0,0,0,0.33,11,0.37
+63,homogeneos,Tableros,4,Tablero fibras madera aglom d=350,350,0.056,1000,0,0,0,0,0.33,11,0.37
+64,homogeneos,Tableros,4,Tableros ligncelulosicos de parts aglom,100,0.24,1000,0,0,0,0,0.33,11,0.37
+65,homogeneos,Tableros,4,Tableros c/ laminado plastico 1 cara,1400,0.49,1000,0,0,0,0,0.0008,11,0.37
+66,homogeneos,Tableros,4,Tableros c/ laminado plastico 2 caras,1400,0.44,1000,0,0,0,0,0.0008,11,0.37
+67,homogeneos,Placas y planchas,5,Placas de fibro cemento d=600,600,0.15,1000,0,0,0,0,0.04,7.75,0.45
+68,homogeneos,Placas y planchas,5,Placas de fibro cemento d=700,700,0.26,1000,0,0,0,0,0.03,7.75,0.45
+69,homogeneos,Placas y planchas,5,Placas de fibro cemento d=800,800,0.3,1000,0,0,0,0,0.035,7.75,0.45
+70,homogeneos,Placas y planchas,5,Placas de fibro cemento d=1200,1200,0.39,1000,0,0,0,0,0.03,7.75,0.45
+71,homogeneos,Placas y planchas,5,Placas de fibro cemento d=1300,1300,0.45,1000,0,0,0,0,0.038,7.75,0.45
+72,homogeneos,Placas y planchas,5,Placas de fibro cemento d=1400,1400,0.51,1000,0,0,0,0,0.026,7.75,0.45
+73,homogeneos,Placas y planchas,5,Placas de fibro cemento d=1500,1500,0.58,1000,0,0,0,0,0.02,7.75,0.45
+74,homogeneos,Placas y planchas,5,Placas de fibro cemento d=1700,1700,0.7,1000,0,0,0,0,0.015,7.75,0.45
+75,homogeneos,Placas y planchas,5,Placas de fibro cemento d=1800,1800,0.87,1000,0,0,0,0,0.01,7.75,0.45
+76,homogeneos,Placas y planchas,5,Placas de fibro cemento d=1950,1950,0.95,1000,0,0,0,0,0.009,7.75,0.45
+77,homogeneos,Placas y planchas,5,Resina acrilica en planchas,1140,0.2,1000,0,0,0,0,0.0006,7.75,0.45
+78,homogeneos,Placas y planchas,5,Policarbonato rigido en planchas,1150,0.23,1000,0,0,0,0,0.0006,112.9,6.03
+79,homogeneos,Placas y planchas,5,Polietileno en planchas baja densidad,920,0.35,1000,0,0,0,0,0.0006,78.1,1.69
+80,homogeneos,Placas y planchas,5,Polietileno en planchas alta densidad,960,0.5,1000,0,0,0,0,0.0006,84.4,2.02
+81,homogeneos,Placas y planchas,5,Polipropileno rigido ,915,0.24,1000,0,0,0,0,0.0006,115.1,2.92
+82,homogeneos,Placas y planchas,5,Policloruro de vinilo rigido (PVC),1350,0.16,1000,0,0,0,0,0.0006,77.2,2.61
+83,homogeneos,Hormigones,6,Horm. c/ agregado petreo d=1800,1800,0.97,920,0,0,0,0,0.044,0.75,0.1
+84,homogeneos,Hormigones,6,Horm. c/ agregado petreo d=1900,1900,1.09,920,0,0,0,0,0.036,0.75,0.1
+85,homogeneos,Hormigones,6,Horm. c/ agregado petreo d=2000,2000,1.16,920,0,0,0,0,0.03,0.75,0.1
+86,homogeneos,Hormigones,6,Horm. c/ agregado petreo d=2200,2200,1.4,920,0,0,0,0,0.022,0.75,0.1
+87,homogeneos,Hormigones,6,Horm. c/ agregado petreo d=2400,2400,1.63,920,0,0,0,0,0.02,0.75,0.1
+88,homogeneos,Hormigones,6,Horm. c/ agregado petreo d=2500,2500,1.74,920,0,0,0,0,0.019,0.75,0.1
+89,homogeneos,Hormigones especiales,7,Horm de ladrillo triturado d=1600,1600,0.76,1000,0,0,0,0,0.05,0.75,0.1
+90,homogeneos,Hormigones especiales,7,Horm de ladrillo triturado d=1800,1800,0.93,1000,0,0,0,0,0.047,0.75,0.1
+91,homogeneos,Hormigones especiales,7,Horm normal c/ escoria de alto horno,2300,1.4,1000,0,0,0,0,0.03,0.75,0.1
+92,homogeneos,Hormigones especiales,7,Horm liviano c/ arcilla exp d=700,700,0.22,1000,0,0,0,0,0.15,0.75,0.1
+93,homogeneos,Hormigones especiales,7,Horm liviano c/ arcilla exp d=800,800,0.29,1000,0,0,0,0,0.1,0.75,0.1
+94,homogeneos,Hormigones especiales,7,Horm liviano c arcilla exp d=900,900,0.36,1000,0,0,0,0,0.08,0.75,0.1
+95,homogeneos,Hormigones especiales,7,Horm liviano c/ arcilla exp d=1000,1000,0.42,1000,0,0,0,0,0.07,0.75,0.1
+96,homogeneos,Hormigones especiales,7,Horm liviano c/ arcilla exp d=1400,1400,0.57,1000,0,0,0,0,0.05,0.75,0.1
+97,homogeneos,Hormigones especiales,7,Horm liviano c/ arcilla exp d=1600,1600,0.89,1000,0,0,0,0,0.048,0.75,0.1
+98,homogeneos,Hormigones especiales,7,Horm c/ vermiculita d=500,500,0.14,1000,0,0,0,0,0.11,0.75,0.1
+99,homogeneos,Hormigones especiales,7,Horm c/ vermiculita d=600,600,0.16,1000,0,0,0,0,0.11,0.75,0.1
+100,homogeneos,Hormigones especiales,7,Horm celular d=600,600,0.16,880,0,0,0,0,0.11,3.5,0.26
+101,homogeneos,Hormigones especiales,7,Horm celular d=800,800,0.22,880,0,0,0,0,0.11,3.5,0.26
+102,homogeneos,Hormigones especiales,7,Horm celular d=1000,1000,0.3,880,0,0,0,0,0.11,3.5,0.26
+103,homogeneos,Hormigones especiales,7,Horm celular d=1200,1200,0.4,880,0,0,0,0,0.11,3.5,0.26
+104,homogeneos,Hormigones especiales,7,Horm celular d=1400,1400,0.5,880,0,0,0,0,0.11,3.5,0.26
+105,homogeneos,Hormigones especiales,7,Horm c/ cascara de arroz d=1100,1100,0.37,1000,0,0,0,0,0.07,3.5,0.26
+106,homogeneos,Hormigones especiales,7,Horm c/ cascara de arroz d=1300,1300,0.45,1000,0,0,0,0,0.06,3.5,0.26
+107,homogeneos,Hormigones especiales,7,Horm c/ cascara de arroz d=1600,1600,0.63,1000,0,0,0,0,0.05,3.5,0.26
+108,homogeneos,Hormigones especiales,7,Horm c/ cascara de arroz d=2000,2000,1.09,1000,0,0,0,0,0.04,3.5,0.26
+109,homogeneos,Hormigones especiales,7,Horm c/ poliest expand d=300,300,0.09,1000,0,0,0,0,0.14,3.5,0.26
+110,homogeneos,Hormigones especiales,7,Horm c/ poliest expand d=500,500,0.15,1000,0,0,0,0,0.12,3.5,0.26
+111,homogeneos,Hormigones especiales,7,Horm c/ poliest expand d=1000,1000,0.26,1000,0,0,0,0,0.11,3.5,0.26
+112,homogeneos,Hormigones especiales,7,Horm c/ poliest expand  d=1300,1300,0.35,1000,0,0,0,0,0.08,3.5,0.26
+113,homogeneos,Hormigones especiales,7,Horm c/ fibras celulosicas d=300,300,0.09,1000,0,0,0,0,0.16,3.5,0.26
+114,homogeneos,Hormigones especiales,7,Horm c/ fibras celulosicas d=400,400,0.14,1000,0,0,0,0,0.15,3.5,0.26
+115,homogeneos,Hormigones especiales,7,Hormigon con fibras de vidrio resistentes,2100,1.11,1000,0,0,0,0,0.022,3.5,0.26
+116,homogeneos,Hormigones especiales,7,Hormigon refractario,900,0.18,1000,0,0,0,0,0.08,3.5,0.26
+117,homogeneos,Hormigones especiales,7,Hormigon con carbon,600,0.13,1000,0,0,0,0,0.15,3.5,0.26
+118,homogeneos,Hormigones especiales,7,Horm c/ viruta de madera d=400,400,0.14,1000,0,0,0,0,0.16,3.5,0.26
+119,homogeneos,Hormigones especiales,7,Horm c/ viruta de madera d=500,500,0.16,1000,0,0,0,0,0.15,3.5,0.26
+120,homogeneos,Morteros y revoques,8,Mortero de cemento,0,1.13,1000,0,0,0,0,0.022,0,0
+121,homogeneos,Morteros y revoques,8,Mortero de cal y cemento,800,1.13,1000,0,0,0,0,0.044,0,0
+122,homogeneos,Morteros y revoques,8,Mortero de cal y cemento con siliconas,100,1.13,1000,0,0,0,0,0.027,0,0
+123,homogeneos,Morteros y revoques,8,Mortero de cal y cemento con imp. de cal,700,1.13,1000,0,0,0,0,0.037,0,0
+124,homogeneos,Morteros y revoques,8,Mortero de cal y yeso,400,0.7,1000,0,0,0,0,0.05,0,0
+125,homogeneos,Morteros y revoques,8,Mortero de yeso con arena,400,0.65,1000,0,0,0,0,0.065,0,0
+126,homogeneos,Morteros y revoques,8,Mortero de yeso  ,200,0.64,1000,0,0,0,0,0.07,0,0
+127,homogeneos,Aislantes,9,Lana de vidrio d=9,9,0.045,656,0,0,0,0,0.5,27,1.35
+128,homogeneos,Aislantes,9,Lana de vidrio d=12,12,0.043,656,0,0,0,0,0.5,27,1.35
+129,homogeneos,Aislantes,9,Lana de vidrio d=17,17,0.04,656,0,0,0,0,0.5,27,1.35
+130,homogeneos,Aislantes,9,Lana de vidrio d=25,25,0.037,656,0,0,0,0,0.5,27,1.35
+131,homogeneos,Aislantes,9,Lana de vidrio d=35,35,0.034,656,0,0,0,0,0.5,27,1.35
+132,homogeneos,Aislantes,9,Lana de vidrio d=60,60,0.033,656,0,0,0,0,0.5,27,1.35
+133,homogeneos,Aislantes,9,Lana mineral densidad 30-50 kg/m3,40,0.042,656,0,0,0,0,0.6,16.6,1.2
+134,homogeneos,Aislantes,9,Lana mineral densidad 51-70 kg/m3,60,0.04,656,0,0,0,0,0.6,16.6,1.2
+135,homogeneos,Aislantes,9,Lana mineral densidad 71-150 kg/m3,110,0.036,656,0,0,0,0,0.6,16.6,1.2
+136,homogeneos,Aislantes,9,Perlita suelta granualdo volcanico exp.,70,0.054,1000,0,0,0,0,0.4,7.75,0.45
+137,homogeneos,Aislantes,9,Mortero de perlita con yeso d=400,400,0.1,1000,0,0,0,0,0.07,7.75,0.45
+138,homogeneos,Aislantes,9,Mortero de perlita con yeso d=500,500,0.12,1000,0,0,0,0,0.07,7.75,0.45
+139,homogeneos,Aislantes,9,Mortero de perlita con yeso d=600,600,0.14,1000,0,0,0,0,0.07,7.75,0.45
+140,homogeneos,Aislantes,9,Mortero de perlita con yeso d=700,700,0.18,1000,0,0,0,0,0.07,7.75,0.45
+141,homogeneos,Aislantes,9,Mortero de perlita c/ cemento d=300,300,0.088,1000,0,0,0,0,0.044,7.75,0.45
+142,homogeneos,Aislantes,9,Mortero de perlita c/ cemento d=400,400,0.093,1000,0,0,0,0,0.044,7.75,0.45
+143,homogeneos,Aislantes,9,Mortero de perlita c/ cemento d=500,500,0.12,1000,0,0,0,0,0.044,7.75,0.45
+144,homogeneos,Aislantes,9,Mortero de perlita c/ cemento d=600,600,0.14,1000,0,0,0,0,0.044,7.75,0.45
+145,homogeneos,Aislantes,9,mortero de perlita c/ cemento d=700,700,0.16,1000,0,0,0,0,0.044,7.75,0.45
+146,homogeneos,Aislantes,9,Poliestireno en planchas,50,0.17,1000,0,0,0,0,0.0006,86.4,2.71
+147,homogeneos,Aislantes,9,Poliestireno expand planchas d=15,15,0.037,1675,0,0,0,0,0.025,88.6,2.55
+148,homogeneos,Aislantes,9,Poliestireno expand planchas d=20,20,0.035,1675,0,0,0,0,0.02,88.6,2.55
+149,homogeneos,Aislantes,9,Poliestireno expand planchas d=25,25,0.033,1675,0,0,0,0,0.015,88.6,2.55
+150,homogeneos,Aislantes,9,Poliestireno expand planchas d=30,30,0.032,1675,0,0,0,0,0.01,88.6,2.55
+151,homogeneos,Aislantes,9,Poliuretano (entre chapas) d=30,30,0.024,1400,0,0,0,0,0.4,101.5,3.48
+152,homogeneos,Aislantes,9,Espuma de poliuretano proyectada PUR,50,0.031,1400,0,0,0,0,0.4,101.5,3.48
+153,homogeneos,Aislantes,9,Poliuretano (entre chapas) d=60,60,0.022,1400,0,0,0,0,0.4,101.5,3.48
+154,homogeneos,Aislantes,9,Poliuretano en placas,45,0.027,1400,0,0,0,0,0.0075,101.5,3.48
+155,homogeneos,Aislantes,9,Poliuretano proyectado +barrera de vapor,45,0.022,1400,0,0,0,0,0.0008,101.5,3.48
+156,homogeneos,Aislantes,9,Poliuretano proyectada +freno de vapor,45,0.024,1400,0,0,0,0,0.0008,101.5,3.48
+157,homogeneos,Aislantes,9,Vermiculita suelta,100,0.07,1000,0,0,0,0,0.4,7.75,0.45
+158,homogeneos,Aislantes,9,Vermiculita con cemento d=400,400,0.11,1000,0,0,0,0,0.11,7.75,0.45
+159,homogeneos,Aislantes,9,Vermiculita con cemento d=500,500,0.13,1000,0,0,0,0,0.11,7.75,0.45
+160,homogeneos,Aislantes,9,Vermiculita con cemento d=600,600,0.17,1000,0,0,0,0,0.11,7.75,0.45
+161,homogeneos,Aislantes,9,Vermiculita con cemento d=700,700,0.2,1000,0,0,0,0,0.11,7.75,0.45
+162,homogeneos,Aislantes,9,Vermiculita con cemento d=800,800,0.24,1000,0,0,0,0,0.11,7.75,0.45
+163,homogeneos,Aislantes,9,Vermic + yeso (placas o revoques) d=200,200,0.11,1000,0,0,0,0,0.065,7.75,0.45
+164,homogeneos,Aislantes,9,Vermic + yeso (placas o revoques) d=400,400,0.13,1000,0,0,0,0,0.065,7.75,0.45
+165,homogeneos,Aislantes,9,Vermic + yeso (placas o revoques) d=500,500,0.15,1000,0,0,0,0,0.065,7.75,0.45
+166,homogeneos,Aislantes,9,Vermic + yeso (placas o revoques) d=600,600,0.19,1000,0,0,0,0,0.065,7.75,0.45
+167,homogeneos,Aislantes,9,Vermic + yeso (placas o revoques) d=700,700,0.22,1000,0,0,0,0,0.065,7.75,0.45
+168,homogeneos,Aislantes,9,Vermic + yeso (placas o revoques) d=800,800,0.26,1000,0,0,0,0,0.065,7.75,0.45
+169,homogeneos,Aislantes,9,Vermic + yeso (placas o revoques) 900,900,0.29,1000,0,0,0,0,0.065,7.75,0.45
+170,homogeneos,Aislantes,9,Vermic + yeso (placas o revoques) d=1000,1000,0.34,1000,0,0,0,0,0.065,7.75,0.45
+171,homogeneos,Aislantes,9,Celulosa proyectada ,30,0.04,1000,0,0,0,0,0.00019,0,0
+172,homogeneos,Vidrios y otros,10,Vidrios para ventanas d=2400,2400,0.58,830,0,0,0,0,0.0006,15,0.86
+173,homogeneos,Vidrios y otros,10,Vidrios para ventanas d=2800,2800,0.8,830,0,0,0,0,0.0006,15,0.86
+174,homogeneos,Vidrios y otros,10,Vidrios para ventanas d=3200,3200,1.05,830,0,0,0,0,0.0006,15,0.86
+175,homogeneos,Vidrios y otros,10,Vidrio armado con malla metalica,2700,1.05,830,0,0,0,0,0.0006,18,0.86
+176,homogeneos,Vidrios y otros,10,Vidrio resistente a calor,2200,1.07,830,0,0,0,0,0.0006,23.5,1.5
+177,homogeneos,Vidrios y otros,10,Vidrio templado,2800,0.8,830,0,0,0,0,0.0006,23.5,1.27
+178,barreras,Barreras de vapor,11,Hoja de aluminio - Espesor: 0.025 micrones,2700,204,1000,0.0000025,0,0,0.000001,0,156,8.26
+179,barreras,Barreras de vapor,11,Hoja de aluminio - Espesor: 0.008 micrones,2700,204,1000,0.0000008,0,0,0.0112,0,156,8.26
+180,barreras,Barreras de vapor,11,Polietileno - Espesor: 0.05 micrones,960,0.5,1000,0.000005,0,0,0.033,0,0,0
+181,barreras,Barreras de vapor,11,Polietileno - Espesor: 0.1 micrones,960,0.5,1000,0.00001,0,0,0.016,0,0,0
+182,barreras,Barreras de vapor,11,Polietileno - Espesor: 0.15 micrones,960,0.5,1000,0.00015,0,0,0.012,0,0,0
+183,barreras,Barreras de vapor,11,Polietileno - Espesor: 0.2 micrones,960,0.5,1000,0.0002,0,0,0.008,0,0,0
+184,barreras,Barreras de vapor,11,Polietileno - Espesor: 0.25 micrones,960,0.5,1000,0.00025,0,0,0.006,0,0,0
+185,barreras,Barreras de vapor,11,Poliester - Espesor: 0.25 micrones,960,0.5,1000,0.00025,0,0,0.15,0,0,0
+186,barreras,Barreras de vapor,11,Barrera no plastificada - Espesor: 0.25 micrones,960,0.5,1000,0.00025,0,0,0.14,0,0,0
+187,barreras,Barreras de vapor,11,Barrera plastificada - Espesor: 0.25 micrones,960,0.5,1000,0.00025,0,0,0.29,0,0,0
+188,barreras,Barreras de vapor,11,Papel Kraft y láminas de asfalto reforzado - Espesor: 0.15 micrones,960,0.5,1000,0.00015,0,0,0.15,0,0,0
+189,barreras,Barreras de vapor,11,Papel Kraft (500gr/m2) - Espesor: 0.15 micrones,960,0.5,1000,0.00015,0,0,7.6,0,0,0
+190,barreras,Barreras de vapor,11,Papel embreado y revestido - Espesor: 0.15 micrones,960,0.5,1000,0.00015,0,0,0.23,0,0,0
+191,barreras,Barreras de vapor,11,Película plástica tipo ¨MYLAR¨ - Espesor: 0.15 micrones,960,0.5,1000,0.00015,0,0,0.01,0,0,0
+192,barreras,Barreras de vapor,11,Hule - Espesor: 0.15 micrones,960,0.5,1000,0.00015,0,0,0.015,0,0,0
+193,barreras,Barreras de vapor,11,Fieltro alquitranado - Espesor: 0.15 micrones,960,0.5,1000,0.00015,0,0,2.28,0,0,0
+194,barreras,Barreras de vapor,11,Fieltro asfáltico - Espesor: 0.15 micrones,1200,0.5,1000,0.00015,0,0,0.67,0,0,0
+195,barreras,Barreras de vapor,11,Fieltro saturado y revestido en rollos - Espesor: 0.15 micrones,1100,0.5,1000,0.00015,0,0,0.03,0,0,0
+196,barreras,Barreras de vapor,11,Fieltro bituminado con hoja de aluminio - Espesor: 0.15 micrones,1200,0.5,1000,0.00015,0,0,0.03,0,0,0
+197,barreras,Barreras de vapor,11,Desmopol poliuretano monocomponente,1400,0.5,1000,1.5,0,0,0.583333333333333,0,0,0
+198,barreras,Barreras de vapor,11,IRAM 11625 - Masillas y adhesivos - Bituminosa aslfalto,1200,0.5,1000,4,0,0,0.065,0,0,0
+199,barreras,Barreras de vapor,11,IRAM 11625 - Pinturas (1 capa) - En frío Bituminosa,1200,0.5,1000,1,0,0,1.08,0,0,0
+200,barreras,Barreras de vapor,11,IRAM 11625 - Pinturas (2 capas) - Asfáltica sobre madera terciada,1200,0.5,1000,2,0,0,0.08,0,0,0
+201,barreras,Barreras de vapor,11,IRAM 11625 - Pinturas (2 capas) - Al agua tipo emulsión,1200,0.5,1000,2,0,0,16,0,0,0
+202,barreras,Barreras de vapor,11,IRAM 11625 - Pinturas (3 capas) - Mástic Asfáltico,1200,0.5,1000,3,0,0,0.1,0,0,0
+203,barreras,Barreras de vapor,11,AVERMA - Pintura asfáltica en solución acuosa,1200,0.5,1000,1.4,0,0,8.62,0,0,0
+204,barreras,Barreras de vapor,11,AVERMA - Pintura asfáltica en solución solvente,1200,0.5,1000,2.3,0,0,0.353,0,0,0
+205,barreras,Barreras de vapor,11,Poliurea PURTOP 1000 Mapei,1200,0.5,1000,2,0,0,4.2962962962963,0,0,0
+206,barreras,Pinturas,12,Pintura a la cal - Espesor: 0.1 micrones,1000,0.8,1000,0.0001,0,0,75,0,0,0
+207,barreras,Pinturas,12,Pintura tipo epoxi - Espesor: 0.1 micrones,1200,0.3,1000,0.0001,0,0,1.13,0,0,0
+208,barreras,Pinturas,12,Pintura a base de siliconas - Espesor: 0.1 micrones,1000,0.12,1000,0.0001,0,0,3.75,0,0,0
+209,barreras,Pinturas,12,Pintura esmalte sobre enlucido - Espesor: 0.1 micrones,1200,0.3,1000,0.0001,0,0,0.4,0,0,0
+210,barreras,Pinturas,12,Resina acrílica de vinil-tolueno - Espesor: 0.2 micrones,1200,0.3,1000,0.0002,0,0,1.2,0,0,0
+211,barreras,Pinturas,12,Resina acrílica - Espesor: 0.2 micrones,1140,0.2,1000,0.0002,0,0,3.86,0,0,0
+212,barreras,Pinturas,12,Terpolímero de acetato - Espesor: 0.2 micrones,1200,0.3,1000,0.0002,0,0,9,0,0,0
+213,barreras,Pinturas,12,Polisocianato más poliester - Espesor: 0.1 micrones,1200,0.3,1000,0.0001,0,0,0.4,0,0,0
+214,barreras,Pinturas,12,Resina acrílica de estireno - Espesor: 1 micron,1140,0.2,1000,0.001,0,0,5,0,0,0
+215,barreras,Pinturas,12,Copolímero de cloruro de vinilo - Espesor: 0.2 micrones,1350,0.16,1000,0.0002,0,0,0.1,0,0,0
+216,barreras,Pinturas,12,Resinas de poliuretano - Espesor: 0.2 micrones,45,0.02,1000,0.0002,0,0,1.76,0,0,0
+217,camaras,Cámaras verticales de aire,13,Camara normal 5mm flujo horizontal ,0,0,0,5,0.11,0.11,0,0.63,0,0
+218,camaras,Cámaras verticales de aire,13,Camara normal 10mm flujo horizontal ,0,0,0,10,0.14,0.14,0,0.63,0,0
+219,camaras,Cámaras verticales de aire,13,Camara normal 20mm flujo horizontal ,0,0,0,20,0.16,0.16,0,0.63,0,0
+220,camaras,Cámaras verticales de aire,13,Camara normal 50mm flujo horizontal,0,0,0,50,0.17,0.17,0,0.63,0,0
+221,camaras,Cámaras verticales de aire,13,Camara normal 100mm flujo horizontal,0,0,0,100,0.17,0.17,0,0.63,0,0
+222,camaras,Cámaras verticales de aire,13,Camara reflejante 5mm flujo horizontal,0,0,0,5,0.17,0.17,0,0.63,0,0
+223,camaras,Cámaras verticales de aire,13,Camara reflejante 10mm flujo horizontal,0,0,0,10,0.29,0.29,0,0.63,0,0
+224,camaras,Cámaras verticales de aire,13,Camara reflejante 20mm flujo horizontal,0,0,0,20,0.37,0.37,0,0.63,0,0
+225,camaras,Cámaras verticales de aire,13,Camara reflejante 50mm flujo horizontal,0,0,0,50,0.34,0.34,0,0.63,0,0
+226,camaras,Cámaras verticales de aire,13,Camara reflejante 100mm flujo horizontal,0,0,0,100,0.34,0.34,0,0.63,0,0
+227,horizontales,Bloques de hormigón y forjados,14,Forjados 12 x 50, 1400,0,1000,120,0.137,0.135,0,0.07,0,0
+228,horizontales,Bloques de hormigón y forjados,14,Forjados 16 x 50, 1400,0,1000,160,0.156,0.148,0,0.07,0,0
+229,horizontales,Bloques de hormigón y forjados,14,Forjados 20 x 50, 1400,0,1000,200,0.178,0.18,0,0.07,0,0
+230,horizontales,Bloques de hormigón y forjados,14,Forjados 25 x 50, 1400,0,1000,250,0.191,0.199,0,0.07,0,0
+231,horizontales,Bloques de hormigón y forjados,14,Forjados 20 x 50, 1400,0,1000,200,0.23,0.255,0,0.07,0,0
+232,horizontales,Bloques de hormigón y forjados,14,Forjados 20 x 60, 1400,0,1000,200,0.25,0.268,0,0.07,0,0
+233,horizontales,Bloques de hormigón y forjados,14,Forjados 25 x 50, 1400,0,1000,250,0.25,0.282,0,0.07,0,0
+234,horizontales,Bloques de hormigón y forjados,14,Forjados 25 x 70, 1400,0,1000,250,0.27,0.484,0,0.07,0,0
+235,horizontales,Cámaras horizontales de aire,15,Camara normal 5mm flujo vertical,0,0,0,5,0.11,0.11,0,0.63,0,0
+236,horizontales,Cámaras horizontales de aire,15,Camara normal 10mm flujo vertical,0,0,0,10,0.13,0.15,0,0.63,0,0
+237,horizontales,Cámaras horizontales de aire,15,Camara normal 20mm flujo vertical,0,0,0,200,0.14,0.18,0,0.63,0,0
+238,horizontales,Cámaras horizontales de aire,15,Camara normal 50mm flujo vertical,0,0,0,50,0.14,0.21,0,0.63,0,0
+239,horizontales,Cámaras horizontales de aire,15,Camara normal 100mm flujo vertical,0,0,0,100,0.14,0.14,0,0.63,0,0
+240,horizontales,Cámaras horizontales de aire,15,Camara reflejante 5mm flujo vertical,0,0,0,5,0.17,0.17,0,0.63,0,0
+241,horizontales,Cámaras horizontales de aire,15,Camara reflejante 10mm flujo vertical,0,0,0,10,0.23,0.29,0,0.63,0,0
+242,horizontales,Cámaras horizontales de aire,15,Camara reflejante 20mm flujo vertical,0,0,0,20,0.25,0.43,0,0.63,0,0
+243,horizontales,Cámaras horizontales de aire,15,Camara reflejante 50mm flujo vertical,0,0,0,50,0.27,0.61,0,0.63,0,0
+244,horizontales,Cámaras horizontales de aire,15,Camara reflejante 100mm flujo vertical,0,0,0,100,0.27,0.61,0,0.63,0,0
+245,heterogeneos,Bloques de hormigón,16,Bloque Ho.de arcilla expand, 1034,0.451612903225806,1000,140,0.31,0.31,0,0.15,3,0.23
+246,heterogeneos,Bloques de hormigón,16,Bloque Ho. d=2200 10cm, 2220,0.588235294117647,1000,100,0.17,0.17,0,0.044,0.59,0.059
+247,heterogeneos,Bloques de hormigón,16,Bloque Ho. d=1900 19cm, 1900,1,1000,190,0.19,0.19,0,0.07,0.59,0.059
+248,heterogeneos,Bloques de hormigón,16,Bloque Ho. d=1750 19cm, 1750,0.863636363636364,1000,190,0.22,0.22,0,0.09,0.59,0.059
+249,heterogeneos,Bloques de hormigón,16,Bloque Ho. c/enrejado de carton, 1750,0.463414634146341,1000,190,0.41,0.41,0,0.09,0.59,0.059
+250,heterogeneos,Bloques de hormigón,16,Bloque Ho.relleno c/poliestir. expand., 1760,0.475,1000,190,0.4,0.4,0,0.09,0.59,0.059
+251,heterogeneos,Bloques de hormigón,16,Bloque Ho c/granulado volcánico, 1600,0.393617021276596,1000,185,0.47,0.47,0,0.09,0.59,0.059
+252,heterogeneos,Bloques de hormigón,16,Bloque Ho. liviano, 1290,0.4375,1000,175,0.4,0.4,0,0.12,0.59,0.059
+253,heterogeneos,Bloques de hormigón,16,Bloque Ho. d=2200 19cm, 2200,0.441860465116279,1000,190,0.43,0.43,0,0.044,0.59,0.059
+254,heterogeneos,Bloques de hormigón,16,Bloque Ho. d=1400 19 cm, 1400,0.513513513513513,1000,190,0.37,0.37,0,0.1,0.59,0.059
+255,heterogeneos,Bloques de hormigón,16,Bloque Ho. d=2400 19cm, 2400,0.5,1000,190,0.38,0.38,0,0.04,0.59,0.059
+256,homogeneos,Bloques de hormigón,16,Bloque HCCA (Tipo Retak),465,0.12,1000,0,0,0,0,0.117,3.5,0.3

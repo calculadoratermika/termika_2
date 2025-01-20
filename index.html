@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
+    integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous" />
+
+    <title>Térmika</title>
+</head>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Z1CGNEB19D"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Z1CGNEB19D');
+</script>
+
+
+
+<body>
+
+  <div class="topnav">
+    <a class="active" href="#home">Calculadora térmika</a>
+    <a href="instrucciones.html">Instrucciones</a>
+    <a href="referencias.html">Referencias</a>
+  </div> 
+
+
+
+    <div id="principal" class="wrapper">
+        <div class="two">
+            <div id="valor_k"></div>
+            <h1 id="sub_estacion_climatica">Estación climática</h1>
+            <select id="departamento" class="form-control m-2"></select>
+            <select id="provincia" class="form-control m-2"></select>
+
+            <!-- Este valida o no las resistencias -->
+            <h1 id="sub_tipologia">Tipología</h1>
+            <select id="elemento_dom"></select>
+
+            <form id="form" class="form">
+
+              <h1 id="sub_materiales">Materiales de interior a exterior</h1>
+              <select id="categoria_dom" class="categoria_dom" placeholder="Elegir categoría"></select>
+              <select id="nombre_dom" class="nombre_dom"></select>
+
+              <!-- estos hay que hacer hidden desde css -->
+              <select id="conductividad_dom" class="conductividad_dom"></select>
+              <select id="resistencia_ascendente_dom" class="resistencia_ascendente_dom"></select>
+              <select id="resistencia_descendente_dom" class="resistencia_descendente_dom"></select>
+              <select id="permeabilidad_vapor_dom" class="permeabilidad_vapor_dom"></select>
+              <select id="resistencia_vapor_dom" class="resistencia_vapor_dom"></select>
+
+              <input type="decimal" id="temp_dis_ext_dom" class="form-control m-2" autocomplete="off" />
+              <input type="decimal" id="res_sup_int_dom" class="form-control m-2" autocomplete="off" />
+
+              <div class="botones" id="botones">
+
+                <input type="decimal" id="espesor_dom" class="form-control m-2" autocomplete="off" placeholder="Espesor (mm)" />
+                <button id="btn-create"><i class="fas fa-plus"></i></button>
+              </div>
+            </form>
+
+              <div class="vaciar" id="vaciar">
+                <button id="btnempty"><i class="fas fa-ban"></i></button>
+              </div>
+
+        </div>
+
+        <div id="grafico"  class="one">
+            <canvas id="sandbox" width="550" height="350"></canvas>
+        </div>
+
+    </div>
+    <div id="latabla" class="latabla">
+    </div>
+
+    <!-- Incluir Dexie
+    <script src="https://unpkg.com/dexie@latest/dist/dexie.js"></script>
+    -->
+
+    <script src="Main.js"></script>
+
+
+</body>
+
+<link rel="stylesheet" href="styles.css">
+
+<!--
+<div id="copyright">
+  <h6>Térmika Copyright (c) 2023 Guillermo Tiscornia, Licencia GNU GPL v2.</h6>
+  <h6>Psychrolib (v. 2.5.0) Copyright (c) 2018-2020 Psychrolib Contributors.</h6>
+  <h6>ASHRAE Copyright (c) 2017 ASHRAE Handbook — Fundamentals (https://www.ashrae.org).</h6>
+</div>
+-->
+
+</html>
