@@ -1,0 +1,21 @@
+{
+  "name": "canvas-layers-tool",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.0.5"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.20",
+    "konva": "^9.3.18",
+    "postcss": "^8.5.1",
+    "react-konva": "^19.0.2",
+    "tailwindcss": "^4.0.0"
+  }
+}
